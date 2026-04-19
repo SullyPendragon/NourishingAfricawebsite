@@ -1,0 +1,7 @@
+body{margin:0;font-family:Arial;background:#0b0f14;color:#fff}
+.container{max-width:1100px;margin:auto;padding:20px}
+.hero{padding:100px 20px;text-align:center;background:linear-gradient(135deg,#000,#1c2b36)}
+.btn{padding:15px 25px;background:#ff7a00;border:none;color:#fff;cursor:pointer}
+.card{background:#121821;padding:20px;border-radius:10px;margin:10px 0}
+.grid{display:grid;gap:20px}
+.grid-3{grid-template-columns:repeat(auto-fit,minmax(250px,1fr))}
